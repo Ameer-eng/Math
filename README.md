@@ -1,2 +1,2 @@
 # Math
-This repository contains some proofs of useful mathematical results.
+This repository contains some nice proofs of useful mathematical results.
