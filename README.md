@@ -1,2 +1,2 @@
 # Math
-This repository contains some mathematics presentations, notes, and solved exercises.
+This repository contains some proofs of useful mathematical results.
